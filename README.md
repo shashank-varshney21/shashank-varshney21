@@ -16,6 +16,10 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=shashank-varshney21&theme=radical&hide_border=true)
 
+## 🟩 GitHub Contribution Graph
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=react-dark&bg_color=000000&color=4D89F9&line=4D89F9&point=00FFFF&area=true&hide_border=true)
+
 
 ## 🏆 GitHub Trophies
 
